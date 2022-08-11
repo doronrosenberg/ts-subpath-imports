@@ -1,3 +1,3 @@
-import { foo } from "./foo";
+import { foo, bar } from "./foo";
 
-export { foo };
+export { foo, bar };
