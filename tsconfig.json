@@ -2,7 +2,7 @@
   "compilerOptions": {
     },
   "paths": {
-    "#internal/*": "./internal/*",
+    "#internal/*": "./internal/*.ts",
     "#internal2": ["./internal"]
   }
 }

@@ -1,4 +1,4 @@
-import { foo } from "#internal/foo";
+import { foo } from "#internal/index";
 import { bar } from "#internal2";
 
 console.log(foo());

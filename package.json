@@ -4,11 +4,12 @@
   "scripts": {
     "build": "tsc"
   },
+  "type": "module",
   "dependencies": {
     "typescript": "^4.7.4"
   },
   "imports": {
-    "#internal/*.ts": "./internal/*.ts",
+    "#internal/*": "./internal/*.ts",
     "#internal2": "./internal"
   }
 }
