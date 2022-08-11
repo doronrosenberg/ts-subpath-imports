@@ -1,0 +1,5 @@
+# Project exclude paths
+/internal/foo.js
+/internal/index.js
+/node_modules/
+/src/test.js

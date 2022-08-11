@@ -1,0 +1,14 @@
+{
+  "name": "ts-subpath-imports",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "imports": {
+    "#internal/*.ts": "./internal/*.ts",
+    "#internal2": "./internal"
+  }
+}
