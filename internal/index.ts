@@ -1,3 +1,3 @@
-import { foo, bar } from "./foo";
+import { foo, bar } from "./foo.js";
 
 export { foo, bar };
