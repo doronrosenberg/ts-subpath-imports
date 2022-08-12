@@ -1,8 +1,5 @@
 {
   "compilerOptions": {
-    },
-  "paths": {
-    "#internal/*": "./internal/*.ts",
-    "#internal2": ["./internal"]
+    "moduleResolution": "Node16",
   }
 }
